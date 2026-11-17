@@ -147,6 +147,3 @@ If you expand this repository, keep the following in mind:
 
 This repository is designed to support agent-driven Databricks work, especially when the goal is to standardize common lakehouse tasks and reduce the chance of fragile, one-off implementations.
 
-## License
-
-No explicit license file is included in this repository yet. If you intend to publish or share this project externally, add a license before distribution.
